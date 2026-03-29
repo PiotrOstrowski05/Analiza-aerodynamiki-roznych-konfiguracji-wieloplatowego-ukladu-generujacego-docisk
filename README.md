@@ -1,2 +1,2 @@
 # Analiza-aerodynamiki-różnych-konfiguracji-wielopłatowego-układu-generującego-docisk
-projekt skupia się na numerycznej analizie przepływu (CFD) wokół złożonego, wieloelementowego układu profili aerodynamicznych. Głównym celem było zbadanie interakcji aerodynamicznych w konfiguracjach o wysokim docisku, ze szczególnym uwzględnieniem wpływu ziemi (ground effect) oraz efektywności płyt bocznych (endplates)
+Projekt skupia się na numerycznej analizie przepływu (CFD) wokół złożonego, wieloelementowego układu profili aerodynamicznych. Głównym celem było zbadanie interakcji aerodynamicznych w konfiguracjach o wysokim docisku, ze szczególnym uwzględnieniem wpływu ziemi (ground effect) oraz efektywności płyt bocznych (endplates).
